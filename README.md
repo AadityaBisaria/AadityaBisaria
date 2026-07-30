@@ -10,7 +10,7 @@ Currently AI Engineer at **Prar Labs**, where I own the core intelligence layer 
 
 ## What I work on
 
-- **Real-time voice agents** — LiveKit + Pipecat pipelines with barge-in, streaming output, and latency budgets measured rather than guessed.
+- **Real-time voice agents** — LiveKit + Pipecat pipelines with barge-in, streaming output, and latency measured.
 - **Agent orchestration at scale** — tool selection across 80+ tools using hybrid dense/BM25 retrieval with RRF fusion, feeding a grammar-constrained small language model for structured intent decoding.
 - **On-device / offline inference** — running LFM2.5 (1.2B) locally on a Qualcomm QCS6490 SoC so the assistant keeps working without connectivity.
 - **LLM evaluation & observability** — Langfuse tracing, curated eval datasets, prompt versioning, cost monitoring, and human-annotated feedback loops for clinical faithfulness.
